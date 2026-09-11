@@ -1,0 +1,149 @@
+evidence_id,tender_id,bidder_id,document_type,document_name,field,extracted_value,source_page,confidence,notes
+EVID_B001_GST_DOCUMENT,2026_EIL_909232_1,B001,GST,gst_certificate.pdf,GSTIN,99AA01B1234C1Z1,1,0.99,Extracted from bidder-submitted GST certificate
+EVID_B001_GST_DOCUMENT,2026_EIL_909232_1,B001,GST,gst_certificate.pdf,Legal Name,Bharat Industrial Systems Pvt Ltd,1,0.99,Extracted from bidder-submitted GST certificate
+EVID_B001_GST_REGISTRY,2026_EIL_909232_1,B001,GST_REGISTRY,gst_registry.csv,Registry Legal Name,Bharat Industrial Systems Pvt Ltd,,0.95,Synthetic mock GST registry verification result
+EVID_B001_GST_REGISTRY,2026_EIL_909232_1,B001,GST_REGISTRY,gst_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock GST registry verification result
+EVID_B001_UDYAM_DOCUMENT,2026_EIL_909232_1,B001,UDYAM,udyam_certificate.pdf,Udyam Number,UDYAM-XX-00-000001,1,0.99,Extracted from bidder-submitted Udyam certificate
+EVID_B001_UDYAM_DOCUMENT,2026_EIL_909232_1,B001,UDYAM,udyam_certificate.pdf,Enterprise Name,Bharat Industrial Systems Pvt Ltd,1,0.99,Extracted from bidder-submitted Udyam certificate
+EVID_B001_UDYAM_REGISTRY,2026_EIL_909232_1,B001,UDYAM_REGISTRY,udyam_registry.csv,Registry Enterprise Name,Bharat Industrial Systems Pvt Ltd,,0.95,Synthetic mock Udyam registry verification result
+EVID_B001_UDYAM_REGISTRY,2026_EIL_909232_1,B001,UDYAM_REGISTRY,udyam_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock Udyam registry verification result
+EVID_B001_OEM_DOCUMENT,2026_EIL_909232_1,B001,OEM,oem_authorization.pdf,Authorized Bidder,Bharat Industrial Systems Pvt Ltd,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B001_OEM_DOCUMENT,2026_EIL_909232_1,B001,OEM,oem_authorization.pdf,Valid From,01-01-2026,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B001_OEM_DOCUMENT,2026_EIL_909232_1,B001,OEM,oem_authorization.pdf,Valid Until,31-12-2027,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B001_OEM_REGISTRY,2026_EIL_909232_1,B001,OEM_REGISTRY,oem_registry.csv,Registry Authorized Bidder,Bharat Industrial Systems Pvt Ltd,,0.95,Synthetic mock OEM registry verification result
+EVID_B001_OEM_REGISTRY,2026_EIL_909232_1,B001,OEM_REGISTRY,oem_registry.csv,Registry Valid Until,31-12-2027,,0.95,Synthetic mock OEM registry verification result
+EVID_B001_OEM_REGISTRY,2026_EIL_909232_1,B001,OEM_REGISTRY,oem_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock OEM registry verification result
+EVID_B001_DEBARMENT_REGISTRY,2026_EIL_909232_1,B001,DEBARMENT_REGISTRY,debarment_registry_synthetic.csv,Debarment Status,NOT_DEBARRED,,0.95,Bidder not found in synthetic debarment registry
+EVID_B002_GST_DOCUMENT,2026_EIL_915736_1,B002,GST,gst_certificate.pdf,GSTIN,99AA02B1234C1Z2,1,0.99,Extracted from bidder-submitted GST certificate
+EVID_B002_GST_DOCUMENT,2026_EIL_915736_1,B002,GST,gst_certificate.pdf,Legal Name,Eastern Process Equipment Pvt Ltd,1,0.99,Extracted from bidder-submitted GST certificate
+EVID_B002_GST_REGISTRY,2026_EIL_915736_1,B002,GST_REGISTRY,gst_registry.csv,Registry Legal Name,Eastern Process Equipment Pvt Ltd,,0.95,Synthetic mock GST registry verification result
+EVID_B002_GST_REGISTRY,2026_EIL_915736_1,B002,GST_REGISTRY,gst_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock GST registry verification result
+EVID_B002_UDYAM_DOCUMENT,2026_EIL_915736_1,B002,UDYAM,udyam_certificate.pdf,Udyam Number,UDYAM-XX-00-000002,1,0.99,Extracted from bidder-submitted Udyam certificate
+EVID_B002_UDYAM_DOCUMENT,2026_EIL_915736_1,B002,UDYAM,udyam_certificate.pdf,Enterprise Name,Eastern Process Equipment Pvt Ltd,1,0.99,Extracted from bidder-submitted Udyam certificate
+EVID_B002_UDYAM_REGISTRY,2026_EIL_915736_1,B002,UDYAM_REGISTRY,udyam_registry.csv,Registry Enterprise Name,Eastern Process Equipment Pvt Ltd,,0.95,Synthetic mock Udyam registry verification result
+EVID_B002_UDYAM_REGISTRY,2026_EIL_915736_1,B002,UDYAM_REGISTRY,udyam_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock Udyam registry verification result
+EVID_B002_OEM_DOCUMENT,2026_EIL_915736_1,B002,OEM,oem_authorization.pdf,Authorized Bidder,Eastern Process Equipment Pvt Ltd,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B002_OEM_DOCUMENT,2026_EIL_915736_1,B002,OEM,oem_authorization.pdf,Valid From,01-01-2026,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B002_OEM_DOCUMENT,2026_EIL_915736_1,B002,OEM,oem_authorization.pdf,Valid Until,31-12-2027,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B002_OEM_REGISTRY,2026_EIL_915736_1,B002,OEM_REGISTRY,oem_registry.csv,Registry Authorized Bidder,Eastern Process Equipment Pvt Ltd,,0.95,Synthetic mock OEM registry verification result
+EVID_B002_OEM_REGISTRY,2026_EIL_915736_1,B002,OEM_REGISTRY,oem_registry.csv,Registry Valid Until,31-12-2027,,0.95,Synthetic mock OEM registry verification result
+EVID_B002_OEM_REGISTRY,2026_EIL_915736_1,B002,OEM_REGISTRY,oem_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock OEM registry verification result
+EVID_B002_DEBARMENT_REGISTRY,2026_EIL_915736_1,B002,DEBARMENT_REGISTRY,debarment_registry_synthetic.csv,Debarment Status,NOT_DEBARRED,,0.95,Bidder not found in synthetic debarment registry
+EVID_B003_GST_DOCUMENT,2026_EIL_909232_1,B003,GST,gst_certificate.pdf,GSTIN,99AA03B1234C1Z3,1,0.99,Extracted from bidder-submitted GST certificate
+EVID_B003_GST_DOCUMENT,2026_EIL_909232_1,B003,GST,gst_certificate.pdf,Legal Name,Apex Flow Technologies Pvt Ltd,1,0.99,Extracted from bidder-submitted GST certificate
+EVID_B003_GST_REGISTRY,2026_EIL_909232_1,B003,GST_REGISTRY,gst_registry.csv,Registry Legal Name,Apex Flow Technologies Pvt Ltd,,0.95,Synthetic mock GST registry verification result
+EVID_B003_GST_REGISTRY,2026_EIL_909232_1,B003,GST_REGISTRY,gst_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock GST registry verification result
+EVID_B003_UDYAM_DOCUMENT,2026_EIL_909232_1,B003,UDYAM,udyam_certificate.pdf,Udyam Number,UDYAM-XX-00-000003,1,0.99,Extracted from bidder-submitted Udyam certificate
+EVID_B003_UDYAM_DOCUMENT,2026_EIL_909232_1,B003,UDYAM,udyam_certificate.pdf,Enterprise Name,Apex Flow Technologies Pvt Ltd,1,0.99,Extracted from bidder-submitted Udyam certificate
+EVID_B003_UDYAM_REGISTRY,2026_EIL_909232_1,B003,UDYAM_REGISTRY,udyam_registry.csv,Registry Enterprise Name,Apex Flow Technologies Pvt Ltd,,0.95,Synthetic mock Udyam registry verification result
+EVID_B003_UDYAM_REGISTRY,2026_EIL_909232_1,B003,UDYAM_REGISTRY,udyam_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock Udyam registry verification result
+EVID_B003_OEM_DOCUMENT,2026_EIL_909232_1,B003,OEM,oem_authorization.pdf,Authorized Bidder,Apex Flow Technologies Pvt Ltd,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B003_OEM_DOCUMENT,2026_EIL_909232_1,B003,OEM,oem_authorization.pdf,Valid From,01-01-2024,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B003_OEM_DOCUMENT,2026_EIL_909232_1,B003,OEM,oem_authorization.pdf,Valid Until,31-12-2024 (EXPIRED),1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B003_OEM_REGISTRY,2026_EIL_909232_1,B003,OEM_REGISTRY,oem_registry.csv,Registry Authorized Bidder,Apex Flow Technologies Pvt Ltd,,0.95,Synthetic mock OEM registry verification result
+EVID_B003_OEM_REGISTRY,2026_EIL_909232_1,B003,OEM_REGISTRY,oem_registry.csv,Registry Valid Until,31-12-2024,,0.95,Synthetic mock OEM registry verification result
+EVID_B003_OEM_REGISTRY,2026_EIL_909232_1,B003,OEM_REGISTRY,oem_registry.csv,Registry Status,EXPIRED,,0.95,Synthetic mock OEM registry verification result
+EVID_B003_DEBARMENT_REGISTRY,2026_EIL_909232_1,B003,DEBARMENT_REGISTRY,debarment_registry_synthetic.csv,Debarment Status,NOT_DEBARRED,,0.95,Bidder not found in synthetic debarment registry
+EVID_B004_GST_DOCUMENT,2026_EIL_912228_1,B004,GST,gst_certificate.pdf,GSTIN,99AA04B1234C1Z4,1,0.99,Extracted from bidder-submitted GST certificate
+EVID_B004_GST_DOCUMENT,2026_EIL_912228_1,B004,GST,gst_certificate.pdf,Legal Name,Nova Engineering Solutions Pvt Ltd,1,0.99,Extracted from bidder-submitted GST certificate
+EVID_B004_GST_REGISTRY,2026_EIL_912228_1,B004,GST_REGISTRY,gst_registry.csv,Registry Legal Name,Nova Engineering Solutions Pvt Ltd,,0.95,Synthetic mock GST registry verification result
+EVID_B004_GST_REGISTRY,2026_EIL_912228_1,B004,GST_REGISTRY,gst_registry.csv,Registry Status,INVALID,,0.95,Synthetic mock GST registry verification result
+EVID_B004_UDYAM_DOCUMENT,2026_EIL_912228_1,B004,UDYAM,udyam_certificate.pdf,Udyam Number,UDYAM-XX-00-000004,1,0.99,Extracted from bidder-submitted Udyam certificate
+EVID_B004_UDYAM_DOCUMENT,2026_EIL_912228_1,B004,UDYAM,udyam_certificate.pdf,Enterprise Name,Nova Engineering Solutions Pvt Ltd,1,0.99,Extracted from bidder-submitted Udyam certificate
+EVID_B004_UDYAM_REGISTRY,2026_EIL_912228_1,B004,UDYAM_REGISTRY,udyam_registry.csv,Registry Enterprise Name,Nova Engineering Solutions Pvt Ltd,,0.95,Synthetic mock Udyam registry verification result
+EVID_B004_UDYAM_REGISTRY,2026_EIL_912228_1,B004,UDYAM_REGISTRY,udyam_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock Udyam registry verification result
+EVID_B004_OEM_DOCUMENT,2026_EIL_912228_1,B004,OEM,oem_authorization.pdf,Authorized Bidder,Nova Engineering Solutions Pvt Ltd,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B004_OEM_DOCUMENT,2026_EIL_912228_1,B004,OEM,oem_authorization.pdf,Valid From,01-01-2026,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B004_OEM_DOCUMENT,2026_EIL_912228_1,B004,OEM,oem_authorization.pdf,Valid Until,31-12-2027,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B004_OEM_REGISTRY,2026_EIL_912228_1,B004,OEM_REGISTRY,oem_registry.csv,Registry Authorized Bidder,Nova Engineering Solutions Pvt Ltd,,0.95,Synthetic mock OEM registry verification result
+EVID_B004_OEM_REGISTRY,2026_EIL_912228_1,B004,OEM_REGISTRY,oem_registry.csv,Registry Valid Until,31-12-2027,,0.95,Synthetic mock OEM registry verification result
+EVID_B004_OEM_REGISTRY,2026_EIL_912228_1,B004,OEM_REGISTRY,oem_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock OEM registry verification result
+EVID_B004_DEBARMENT_REGISTRY,2026_EIL_912228_1,B004,DEBARMENT_REGISTRY,debarment_registry_synthetic.csv,Debarment Status,NOT_DEBARRED,,0.95,Bidder not found in synthetic debarment registry
+EVID_B005_GST_DOCUMENT,2026_EIL_915736_1,B005,GST,gst_certificate.pdf,GSTIN,99AA05B1234C1Z5,1,0.99,Extracted from bidder-submitted GST certificate
+EVID_B005_GST_DOCUMENT,2026_EIL_915736_1,B005,GST,gst_certificate.pdf,Legal Name,Shakti Mechanical Works,1,0.99,Extracted from bidder-submitted GST certificate
+EVID_B005_GST_REGISTRY,2026_EIL_915736_1,B005,GST_REGISTRY,gst_registry.csv,Registry Legal Name,Shakti Mechanical Works,,0.95,Synthetic mock GST registry verification result
+EVID_B005_GST_REGISTRY,2026_EIL_915736_1,B005,GST_REGISTRY,gst_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock GST registry verification result
+EVID_B005_UDYAM_DOCUMENT,2026_EIL_915736_1,B005,UDYAM,,Document Present,false,,1.0,Udyam/MSME document was not submitted by bidder (intentional test case)
+EVID_B005_UDYAM_REGISTRY,2026_EIL_915736_1,B005,UDYAM_REGISTRY,udyam_registry.csv,Registry Enterprise Name,Shakti Mechanical Works,,0.95,Synthetic mock Udyam registry verification result
+EVID_B005_UDYAM_REGISTRY,2026_EIL_915736_1,B005,UDYAM_REGISTRY,udyam_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock Udyam registry verification result
+EVID_B005_OEM_DOCUMENT,2026_EIL_915736_1,B005,OEM,oem_authorization.pdf,Authorized Bidder,Shakti Mechanical Works,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B005_OEM_DOCUMENT,2026_EIL_915736_1,B005,OEM,oem_authorization.pdf,Valid From,01-01-2026,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B005_OEM_DOCUMENT,2026_EIL_915736_1,B005,OEM,oem_authorization.pdf,Valid Until,31-12-2027,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B005_OEM_REGISTRY,2026_EIL_915736_1,B005,OEM_REGISTRY,oem_registry.csv,Registry Authorized Bidder,Shakti Mechanical Works,,0.95,Synthetic mock OEM registry verification result
+EVID_B005_OEM_REGISTRY,2026_EIL_915736_1,B005,OEM_REGISTRY,oem_registry.csv,Registry Valid Until,31-12-2027,,0.95,Synthetic mock OEM registry verification result
+EVID_B005_OEM_REGISTRY,2026_EIL_915736_1,B005,OEM_REGISTRY,oem_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock OEM registry verification result
+EVID_B005_DEBARMENT_REGISTRY,2026_EIL_915736_1,B005,DEBARMENT_REGISTRY,debarment_registry_synthetic.csv,Debarment Status,NOT_DEBARRED,,0.95,Bidder not found in synthetic debarment registry
+EVID_B006_GST_DOCUMENT,2026_EIL_912228_1,B006,GST,gst_certificate.pdf,GSTIN,99AA06B1234C1Z6,1,0.99,Extracted from bidder-submitted GST certificate
+EVID_B006_GST_DOCUMENT,2026_EIL_912228_1,B006,GST,gst_certificate.pdf,Legal Name,Precision Pumping Systems Pvt Ltd,1,0.99,Extracted from bidder-submitted GST certificate
+EVID_B006_GST_REGISTRY,2026_EIL_912228_1,B006,GST_REGISTRY,gst_registry.csv,Registry Legal Name,Precision Pumps India Pvt Ltd,,0.95,Synthetic mock GST registry verification result
+EVID_B006_GST_REGISTRY,2026_EIL_912228_1,B006,GST_REGISTRY,gst_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock GST registry verification result
+EVID_B006_UDYAM_DOCUMENT,2026_EIL_912228_1,B006,UDYAM,udyam_certificate.pdf,Enterprise Name,Precision Pumps India Pvt Ltd,1,0.99,Extracted from bidder-submitted Udyam certificate
+EVID_B006_UDYAM_REGISTRY,2026_EIL_912228_1,B006,UDYAM_REGISTRY,udyam_registry.csv,Registry Enterprise Name,Precision Pumps India Pvt Ltd,,0.95,Synthetic mock Udyam registry verification result
+EVID_B006_UDYAM_REGISTRY,2026_EIL_912228_1,B006,UDYAM_REGISTRY,udyam_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock Udyam registry verification result
+EVID_B006_OEM_DOCUMENT,2026_EIL_912228_1,B006,OEM,oem_authorization.pdf,Authorized Bidder,Precision Pumps India Pvt Ltd,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B006_OEM_DOCUMENT,2026_EIL_912228_1,B006,OEM,oem_authorization.pdf,Valid From,01-01-2026,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B006_OEM_DOCUMENT,2026_EIL_912228_1,B006,OEM,oem_authorization.pdf,Valid Until,31-12-2027,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B006_OEM_REGISTRY,2026_EIL_912228_1,B006,OEM_REGISTRY,oem_registry.csv,Registry Authorized Bidder,Precision Pumps India Pvt Ltd,,0.95,Synthetic mock OEM registry verification result
+EVID_B006_OEM_REGISTRY,2026_EIL_912228_1,B006,OEM_REGISTRY,oem_registry.csv,Registry Valid Until,31-12-2027,,0.95,Synthetic mock OEM registry verification result
+EVID_B006_OEM_REGISTRY,2026_EIL_912228_1,B006,OEM_REGISTRY,oem_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock OEM registry verification result
+EVID_B006_DEBARMENT_REGISTRY,2026_EIL_912228_1,B006,DEBARMENT_REGISTRY,debarment_registry_synthetic.csv,Debarment Status,NOT_DEBARRED,,0.95,Bidder not found in synthetic debarment registry
+EVID_B007_GST_DOCUMENT,2026_EIL_915736_1,B007,GST,gst_certificate.pdf,GSTIN,99AA07B1234C1Z7,1,0.99,Extracted from bidder-submitted GST certificate
+EVID_B007_GST_DOCUMENT,2026_EIL_915736_1,B007,GST,gst_certificate.pdf,Legal Name,Assam Industrial Products Pvt Ltd,1,0.99,Extracted from bidder-submitted GST certificate
+EVID_B007_GST_REGISTRY,2026_EIL_915736_1,B007,GST_REGISTRY,gst_registry.csv,Registry Legal Name,Assam Industrial Products Pvt Ltd,,0.95,Synthetic mock GST registry verification result
+EVID_B007_GST_REGISTRY,2026_EIL_915736_1,B007,GST_REGISTRY,gst_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock GST registry verification result
+EVID_B007_UDYAM_DOCUMENT,2026_EIL_915736_1,B007,UDYAM,udyam_certificate.pdf,Udyam Number,UDYAM-XX-00-000007,1,0.99,Extracted from bidder-submitted Udyam certificate
+EVID_B007_UDYAM_DOCUMENT,2026_EIL_915736_1,B007,UDYAM,udyam_certificate.pdf,Enterprise Name,Assam Industrial Product Works Pvt Ltd,1,0.99,Extracted from bidder-submitted Udyam certificate
+EVID_B007_UDYAM_REGISTRY,2026_EIL_915736_1,B007,UDYAM_REGISTRY,udyam_registry.csv,Registry Enterprise Name,Assam Industrial Product Works Pvt Ltd,,0.95,Synthetic mock Udyam registry verification result
+EVID_B007_UDYAM_REGISTRY,2026_EIL_915736_1,B007,UDYAM_REGISTRY,udyam_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock Udyam registry verification result
+EVID_B007_OEM_DOCUMENT,2026_EIL_915736_1,B007,OEM,oem_authorization.pdf,Authorized Bidder,Assam Industrial Products Pvt Ltd,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B007_OEM_DOCUMENT,2026_EIL_915736_1,B007,OEM,oem_authorization.pdf,Valid From,01-01-2026,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B007_OEM_DOCUMENT,2026_EIL_915736_1,B007,OEM,oem_authorization.pdf,Valid Until,31-12-2027,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B007_OEM_REGISTRY,2026_EIL_915736_1,B007,OEM_REGISTRY,oem_registry.csv,Registry Authorized Bidder,Assam Industrial Products Pvt Ltd,,0.95,Synthetic mock OEM registry verification result
+EVID_B007_OEM_REGISTRY,2026_EIL_915736_1,B007,OEM_REGISTRY,oem_registry.csv,Registry Valid Until,31-12-2027,,0.95,Synthetic mock OEM registry verification result
+EVID_B007_OEM_REGISTRY,2026_EIL_915736_1,B007,OEM_REGISTRY,oem_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock OEM registry verification result
+EVID_B007_DEBARMENT_REGISTRY,2026_EIL_915736_1,B007,DEBARMENT_REGISTRY,debarment_registry_synthetic.csv,Debarment Status,NOT_DEBARRED,,0.95,Bidder not found in synthetic debarment registry
+EVID_B008_GST_DOCUMENT,2026_EIL_909232_1,B008,GST,gst_certificate.pdf,GSTIN,99AA08B1234C1Z8,1,0.99,Extracted from bidder-submitted GST certificate
+EVID_B008_GST_DOCUMENT,2026_EIL_909232_1,B008,GST,gst_certificate.pdf,Legal Name,Delta Process Systems Pvt Ltd,1,0.99,Extracted from bidder-submitted GST certificate
+EVID_B008_GST_REGISTRY,2026_EIL_909232_1,B008,GST_REGISTRY,gst_registry.csv,Registry Legal Name,Delta Process Systems Pvt Ltd,,0.95,Synthetic mock GST registry verification result
+EVID_B008_GST_REGISTRY,2026_EIL_909232_1,B008,GST_REGISTRY,gst_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock GST registry verification result
+EVID_B008_UDYAM_DOCUMENT,2026_EIL_909232_1,B008,UDYAM,udyam_certificate.pdf,Udyam Number,UDYAM-XX-00-000008,1,0.99,Extracted from bidder-submitted Udyam certificate
+EVID_B008_UDYAM_DOCUMENT,2026_EIL_909232_1,B008,UDYAM,udyam_certificate.pdf,Enterprise Name,Delta Process Systems Pvt Ltd,1,0.99,Extracted from bidder-submitted Udyam certificate
+EVID_B008_UDYAM_REGISTRY,2026_EIL_909232_1,B008,UDYAM_REGISTRY,udyam_registry.csv,Registry Enterprise Name,Delta Process Systems Pvt Ltd,,0.95,Synthetic mock Udyam registry verification result
+EVID_B008_UDYAM_REGISTRY,2026_EIL_909232_1,B008,UDYAM_REGISTRY,udyam_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock Udyam registry verification result
+EVID_B008_OEM_DOCUMENT,2026_EIL_909232_1,B008,OEM,oem_authorization.pdf,Authorized Bidder,Delta Process Engineering Pvt Ltd,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B008_OEM_DOCUMENT,2026_EIL_909232_1,B008,OEM,oem_authorization.pdf,Valid From,01-01-2026,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B008_OEM_DOCUMENT,2026_EIL_909232_1,B008,OEM,oem_authorization.pdf,Valid Until,31-12-2027,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B008_OEM_REGISTRY,2026_EIL_909232_1,B008,OEM_REGISTRY,oem_registry.csv,Registry Authorized Bidder,Delta Process Engineering Pvt Ltd,,0.95,Synthetic mock OEM registry verification result
+EVID_B008_OEM_REGISTRY,2026_EIL_909232_1,B008,OEM_REGISTRY,oem_registry.csv,Registry Valid Until,31-12-2027,,0.95,Synthetic mock OEM registry verification result
+EVID_B008_OEM_REGISTRY,2026_EIL_909232_1,B008,OEM_REGISTRY,oem_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock OEM registry verification result
+EVID_B008_DEBARMENT_REGISTRY,2026_EIL_909232_1,B008,DEBARMENT_REGISTRY,debarment_registry_synthetic.csv,Debarment Status,NOT_DEBARRED,,0.95,Bidder not found in synthetic debarment registry
+EVID_B009_GST_DOCUMENT,2026_EIL_915736_1,B009,GST,gst_certificate.pdf,GSTIN,99AA09B1234C1Z9,1,0.99,Extracted from bidder-submitted GST certificate
+EVID_B009_GST_DOCUMENT,2026_EIL_915736_1,B009,GST,gst_certificate.pdf,Legal Name,Meridian Engineering Pvt Ltd,1,0.99,Extracted from bidder-submitted GST certificate
+EVID_B009_GST_REGISTRY,2026_EIL_915736_1,B009,GST_REGISTRY,gst_registry.csv,Registry Legal Name,Meridian Engineering Pvt Ltd,,0.95,Synthetic mock GST registry verification result
+EVID_B009_GST_REGISTRY,2026_EIL_915736_1,B009,GST_REGISTRY,gst_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock GST registry verification result
+EVID_B009_UDYAM_DOCUMENT,2026_EIL_915736_1,B009,UDYAM,udyam_certificate.pdf,Udyam Number,UDYAM-XX-00-000009,1,0.99,Extracted from bidder-submitted Udyam certificate
+EVID_B009_UDYAM_DOCUMENT,2026_EIL_915736_1,B009,UDYAM,udyam_certificate.pdf,Enterprise Name,Meridian Engineering Pvt Ltd,1,0.99,Extracted from bidder-submitted Udyam certificate
+EVID_B009_UDYAM_REGISTRY,2026_EIL_915736_1,B009,UDYAM_REGISTRY,udyam_registry.csv,Registry Enterprise Name,Meridian Engineering Pvt Ltd,,0.95,Synthetic mock Udyam registry verification result
+EVID_B009_UDYAM_REGISTRY,2026_EIL_915736_1,B009,UDYAM_REGISTRY,udyam_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock Udyam registry verification result
+EVID_B009_OEM_DOCUMENT,2026_EIL_915736_1,B009,OEM,oem_authorization.pdf,Authorized Bidder,Meridian Engineering Pvt Ltd,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B009_OEM_DOCUMENT,2026_EIL_915736_1,B009,OEM,oem_authorization.pdf,Valid From,01-01-2026,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B009_OEM_DOCUMENT,2026_EIL_915736_1,B009,OEM,oem_authorization.pdf,Valid Until,31-12-2027,1,0.98,Extracted from bidder-submitted OEM authorization letter
+EVID_B009_OEM_REGISTRY,2026_EIL_915736_1,B009,OEM_REGISTRY,oem_registry.csv,Registry Authorized Bidder,Meridian Engineering Pvt Ltd,,0.95,Synthetic mock OEM registry verification result
+EVID_B009_OEM_REGISTRY,2026_EIL_915736_1,B009,OEM_REGISTRY,oem_registry.csv,Registry Valid Until,31-12-2027,,0.95,Synthetic mock OEM registry verification result
+EVID_B009_OEM_REGISTRY,2026_EIL_915736_1,B009,OEM_REGISTRY,oem_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock OEM registry verification result
+EVID_B009_DEBARMENT_REGISTRY,2026_EIL_915736_1,B009,DEBARMENT_REGISTRY,debarment_registry_synthetic.csv,Debarment Status,DEBARRED,,0.99,Bidder appears in synthetic debarment registry
+EVID_B009_DEBARMENT_REGISTRY,2026_EIL_915736_1,B009,DEBARMENT_REGISTRY,debarment_registry_synthetic.csv,Debarred By,Synthetic Procurement Authority,,0.99,Synthetic test case for debarment verification
+EVID_B009_DEBARMENT_REGISTRY,2026_EIL_915736_1,B009,DEBARMENT_REGISTRY,debarment_registry_synthetic.csv,Effective Period,01-06-2026 to 31-05-2028,,0.99,Synthetic test case for debarment verification
+EVID_B010_GST_DOCUMENT,2026_EIL_912228_1,B010,GST,gst_certificate.pdf,GSTIN,99AA10B1234C1Z0,1,0.95,Incomplete synthetic GST document
+EVID_B010_GST_DOCUMENT,2026_EIL_912228_1,B010,GST,gst_certificate.pdf,Legal Name,National Process Equipment Pvt Ltd,1,0.95,Only field legibly present on incomplete document
+EVID_B010_GST_DOCUMENT,2026_EIL_912228_1,B010,GST,gst_certificate.pdf,Status,FIELD INCOMPLETE / VERIFICATION REQUIRED,1,0.98,"Trade Name, Registration Date, and Principal Address fields are missing from the submitted document"
+EVID_B010_GST_REGISTRY,2026_EIL_912228_1,B010,GST_REGISTRY,gst_registry.csv,Registry Legal Name,National Process Equipment Pvt Ltd,,0.95,Synthetic mock GST registry verification result
+EVID_B010_GST_REGISTRY,2026_EIL_912228_1,B010,GST_REGISTRY,gst_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock GST registry verification result
+EVID_B010_UDYAM_DOCUMENT,2026_EIL_912228_1,B010,UDYAM,,Document Present,false,,1.0,Udyam/MSME document was not submitted by bidder (intentional test case)
+EVID_B010_UDYAM_REGISTRY,2026_EIL_912228_1,B010,UDYAM_REGISTRY,udyam_registry.csv,Registry Enterprise Name,National Process Equipment Pvt Ltd,,0.95,Synthetic mock Udyam registry verification result
+EVID_B010_UDYAM_REGISTRY,2026_EIL_912228_1,B010,UDYAM_REGISTRY,udyam_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock Udyam registry verification result
+EVID_B010_OEM_DOCUMENT,2026_EIL_912228_1,B010,OEM,,Document Present,false,,1.0,OEM authorization document was not submitted by bidder (intentional test case)
+EVID_B010_OEM_REGISTRY,2026_EIL_912228_1,B010,OEM_REGISTRY,oem_registry.csv,Registry Authorized Bidder,National Process Equipment Pvt Ltd,,0.95,Synthetic mock OEM registry verification result
+EVID_B010_OEM_REGISTRY,2026_EIL_912228_1,B010,OEM_REGISTRY,oem_registry.csv,Registry Valid Until,31-12-2027,,0.95,Synthetic mock OEM registry verification result
+EVID_B010_OEM_REGISTRY,2026_EIL_912228_1,B010,OEM_REGISTRY,oem_registry.csv,Registry Status,ACTIVE,,0.95,Synthetic mock OEM registry verification result
+EVID_B010_DEBARMENT_REGISTRY,2026_EIL_912228_1,B010,DEBARMENT_REGISTRY,debarment_registry_synthetic.csv,Debarment Status,NOT_DEBARRED,,0.95,Bidder not found in synthetic debarment registry

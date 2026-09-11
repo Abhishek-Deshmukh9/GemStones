@@ -1,0 +1,3 @@
+bidder_name,bidder_id,debarment_status,debarred_by,effective_from,effective_until,reason,source_type
+Meridian Engineering Pvt Ltd,B009,DEBARRED,Synthetic Procurement Authority,01-06-2026,31-05-2028,Synthetic test case for debarment verification,SYNTHETIC TEST DATA
+Example Compliance Services Pvt Ltd,,NOT_DEBARRED,,,,Synthetic control record,SYNTHETIC TEST DATA

@@ -1,0 +1,41 @@
+{
+  "tender_id": "2026_EIL_909232_1",
+  "tender_title": "SP/ B957-000-YB-MR-1380/162 TANK PR. PROTECT. DEVICES / FLAME ARRSTR FOR BINA PETCHEM AND REFINERY EXPANSION PROJECT (BPREP)",
+  "organisation": "Engineers India Limited",
+  "ministry_department": "Ministry of Petroleum and Natural Gas",
+  "tender_category": "Goods",
+  "product_category": "Miscellaneous Goods",
+  "published_date": "04-Jun-2026 05:00 PM",
+  "closing_date": "15-Sep-2026 12:00 PM",
+  "bid_opening_date": "16-Sep-2026 12:00 PM",
+  "tender_value": null,
+  "emd": 400000,
+  "location": "AS PER BIDDING DOCUMENT",
+  "work_description": "SP/ B957-000-YB-MR-1380/162 TANK PR. PROTECT. DEVICES / FLAME ARRSTR FOR BINA PETCHEM AND REFINERY EXPANSION PROJECT (BPREP)",
+  "eligibility_requirements": [],
+  "mandatory_documents": [
+    {"requirement": "EMD/Bid Security", "compliance_type": "BID_SECURITY", "source_reference": "Covers Information, Cover No 1 - Fee"},
+    {"requirement": "Offer Covering letter (in bidders letter head).", "compliance_type": "DOCUMENT_SUBMISSION", "source_reference": "Covers Information, Cover No 2 - PreQual/Technical"},
+    {"requirement": "Bidders General Information (Form-A).", "compliance_type": "DOCUMENT_SUBMISSION", "source_reference": "Covers Information, Cover No 2 - PreQual/Technical"},
+    {"requirement": "Techno-Commercial compliance to terms and Conditions of Bidding Document (Form-B).", "compliance_type": "DOCUMENT_SUBMISSION", "source_reference": "Covers Information, Cover No 2 - PreQual/Technical"},
+    {"requirement": "Duly filled and signed copy of Agreed Terms and Conditions (ATC) (Form-C)", "compliance_type": "DOCUMENT_SUBMISSION", "source_reference": "Covers Information, Cover No 2 - PreQual/Technical"},
+    {"requirement": "Bank Certified Mandate Form as per Form-D duly signed and stamped", "compliance_type": "BANK_MANDATE", "source_reference": "Covers Information, Cover No 2 - PreQual/Technical"},
+    {"requirement": "Self-declaration by bidder regarding Holiday/ Negative listing/,Arbitration/ Litigation etc. (FORM-G)", "compliance_type": "DECLARATION", "source_reference": "Covers Information, Cover No 2 - PreQual/Technical"},
+    {"requirement": "Unpriced copy of Price Schedule Indicating Quoted for the Price column and NQ for not quoted", "compliance_type": "PRICE_SCHEDULE", "source_reference": "Covers Information, Cover No 2 - PreQual/Technical"},
+    {"requirement": "Duly signed and stamped copy of Addendum / Amendment (if any).", "compliance_type": "DOCUMENT_SUBMISSION", "source_reference": "Covers Information, Cover No 2 - PreQual/Technical"},
+    {"requirement": "Documents For Technical Criteria as per clause no. 3.1 of NIT", "compliance_type": "TECHNICAL_CRITERIA", "source_reference": "Covers Information, Cover No 2 - PreQual/Technical"},
+    {"requirement": "Documents For Financial Criteria as per clause no. 3.2 of NIT", "compliance_type": "FINANCIAL_CRITERIA", "source_reference": "Covers Information, Cover No 2 - PreQual/Technical"},
+    {"requirement": "Price Bid", "compliance_type": "PRICE_BID", "source_reference": "Covers Information, Cover No 3 - Finance"}
+  ],
+  "technical_requirements": [],
+  "financial_requirements": [],
+  "msme_requirements": [],
+  "make_in_india_requirements": [{"requirement": "Self Certification by Bidder under PPP-MII Order,2017 towards Local Content(FORM-3)", "compliance_type": "PPP_MII", "source_reference": "Covers Information, Cover No 2 - PreQual/Technical"}],
+  "oem_requirements": [
+    {"requirement": "OEM Authorization Letter confirming bidder is an authorized dealer/representative for the offered equipment", "compliance_type": "OEM_AUTHORIZATION", "source_reference": "SYNTHETIC TEST ADDITION - NOT PART OF THE ORIGINAL TENDER DOCUMENT. Added for GeM Stones MVP demo purposes so OEM-authorization verification test cases (expired authorization, bidder mismatch, missing authorization) can be exercised end-to-end. The original NIT for this tender does not list an OEM authorization requirement."}
+  ],
+  "other_compliance_requirements": [],
+  "source": "CPPP eProcurement System, Government of India (Tenders NIC)",
+  "source_url": "",
+  "notes": "MODIFIED FOR MVP TESTING: an OEM authorization requirement was added synthetically to oem_requirements (see source_reference on that entry) so the OEM verification pipeline has at least one tender to test against. This is a dataset augmentation, not real tender data — do not treat as an authoritative record of the original NIT's actual requirements."
+}

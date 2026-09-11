@@ -1,0 +1,11 @@
+oem_name,authorized_bidder,authorization_number,valid_from,valid_until,status,source
+Orion Industrial Equipment Ltd,Bharat Industrial Systems Pvt Ltd,OEM-AUTH-SYN-0001,01-01-2026,31-12-2027,ACTIVE,SYNTHETIC TEST REGISTRY
+Trident Process Systems Ltd,Eastern Process Equipment Pvt Ltd,OEM-AUTH-SYN-0002,01-01-2026,31-12-2027,ACTIVE,SYNTHETIC TEST REGISTRY
+National Fluid Controls Ltd,Apex Flow Technologies Pvt Ltd,OEM-AUTH-SYN-0003,01-01-2024,31-12-2024,EXPIRED,SYNTHETIC TEST REGISTRY
+Orion Industrial Equipment Ltd,Nova Engineering Solutions Pvt Ltd,OEM-AUTH-SYN-0004,01-01-2026,31-12-2027,ACTIVE,SYNTHETIC TEST REGISTRY
+Trident Process Systems Ltd,Shakti Mechanical Works,OEM-AUTH-SYN-0005,01-01-2026,31-12-2027,ACTIVE,SYNTHETIC TEST REGISTRY
+National Fluid Controls Ltd,Precision Pumps India Pvt Ltd,OEM-AUTH-SYN-0006,01-01-2026,31-12-2027,ACTIVE,SYNTHETIC TEST REGISTRY
+Orion Industrial Equipment Ltd,Assam Industrial Products Pvt Ltd,OEM-AUTH-SYN-0007,01-01-2026,31-12-2027,ACTIVE,SYNTHETIC TEST REGISTRY
+Trident Process Systems Ltd,Delta Process Engineering Pvt Ltd,OEM-AUTH-SYN-0008,01-01-2026,31-12-2027,ACTIVE,SYNTHETIC TEST REGISTRY
+National Fluid Controls Ltd,Meridian Engineering Pvt Ltd,OEM-AUTH-SYN-0009,01-01-2026,31-12-2027,ACTIVE,SYNTHETIC TEST REGISTRY
+Orion Industrial Equipment Ltd,National Process Equipment Pvt Ltd,OEM-AUTH-SYN-0010,01-01-2026,31-12-2027,ACTIVE,SYNTHETIC TEST REGISTRY

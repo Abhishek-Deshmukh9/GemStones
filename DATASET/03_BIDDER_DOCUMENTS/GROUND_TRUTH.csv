@@ -1,0 +1,11 @@
+bidder_id,bidder_name,case,expected_risk
+B001,Bharat Industrial Systems Pvt Ltd,Compliant,LOW
+B002,Eastern Process Equipment Pvt Ltd,Compliant,LOW
+B003,Apex Flow Technologies Pvt Ltd,Expired OEM authorization,HIGH
+B004,Nova Engineering Solutions Pvt Ltd,Invalid GST registry result,HIGH
+B005,Shakti Mechanical Works,Missing Udyam,HIGH
+B006,Precision Pumps India Pvt Ltd,GST name mismatch,MEDIUM
+B007,Assam Industrial Products Pvt Ltd,Udyam name mismatch,MEDIUM
+B008,Delta Process Systems Pvt Ltd,OEM bidder mismatch,HIGH
+B009,Meridian Engineering Pvt Ltd,Debarment registry test case,HIGH
+B010,National Process Equipment Pvt Ltd,Incomplete and missing documents,HIGH

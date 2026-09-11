@@ -1,0 +1,40 @@
+{
+  "tender_id": "2026_EIL_912228_1",
+  "tender_title": "JP/ B862-000-MF-MR-8002/109 - WATER CUM FOAM MONITOR, REMOTE CONTROLLED FIRE WATER CUM FOAM MONITOR, DELUGE VALVE (Diaphragm Type) FOR PLL.",
+  "organisation": "Engineers India Limited",
+  "ministry_department": "Ministry of Petroleum and Natural Gas",
+  "tender_category": "Goods",
+  "product_category": "Miscellaneous Goods",
+  "published_date": "09-Jun-2026 06:00 PM",
+  "closing_date": "23-Sep-2026 12:00 PM",
+  "bid_opening_date": "24-Sep-2026 02:00 PM",
+  "tender_value": null,
+  "emd": 0,
+  "location": "AS PER BIDDING DOCUMENT",
+  "work_description": "WATER CUM FOAM MONITOR, REMOTE CONTROLLED FIRE WATER CUM FOAM MONITOR, DELUGE VALVE (Diaphragm Type) FOR PLL.",
+  "eligibility_requirements": [],
+  "mandatory_documents": [
+    {"requirement": "ATC for Indigenous Bidder, duly filled and complete in all respect.", "compliance_type": "DOCUMENT_SUBMISSION", "source_reference": "Covers Information, Cover No 1 - Fee/PreQual/Technical"},
+    {"requirement": "Bank Certified Mandate Form as per Form-A duly signed and stamped", "compliance_type": "BANK_MANDATE", "source_reference": "Covers Information, Cover No 1 - Fee/PreQual/Technical"},
+    {"requirement": "Unpriced copy of BOQ.", "compliance_type": "PRICE_SCHEDULE", "source_reference": "Covers Information, Cover No 1 - Fee/PreQual/Technical"},
+    {"requirement": "Scanned copy of Addendum or Amendment if any", "compliance_type": "DOCUMENT_SUBMISSION", "source_reference": "Covers Information, Cover No 1 - Fee/PreQual/Technical"},
+    {"requirement": "POA", "compliance_type": "POWER_OF_ATTORNEY", "source_reference": "Covers Information, Cover No 1 - Fee/PreQual/Technical"},
+    {"requirement": "Any other documents required as per Material Requisition", "compliance_type": "DOCUMENT_SUBMISSION", "source_reference": "Covers Information, Cover No 1 - Fee/PreQual/Technical"},
+    {"requirement": "Any other document as stipulated in the bidding document.", "compliance_type": "DOCUMENT_SUBMISSION", "source_reference": "Covers Information, Cover No 1 - Fee/PreQual/Technical"},
+    {"requirement": "BIDDING FORMS", "compliance_type": "DOCUMENT_SUBMISSION", "source_reference": "Covers Information, Cover No 1 - Fee/PreQual/Technical"},
+    {"requirement": "CIF VALUE OF IMPORT CONTENT", "compliance_type": "DOCUMENT_SUBMISSION", "source_reference": "Covers Information, Cover No 1 - Fee/PreQual/Technical"},
+    {"requirement": "Valid GST Registration certificate", "compliance_type": "GST", "source_reference": "Covers Information, Cover No 1 - Fee/PreQual/Technical"},
+    {"requirement": "Price Bid", "compliance_type": "PRICE_BID", "source_reference": "Covers Information, Cover No 2 - Finance"}
+  ],
+  "technical_requirements": [],
+  "financial_requirements": [],
+  "msme_requirements": [],
+  "make_in_india_requirements": [],
+  "oem_requirements": [],
+  "other_compliance_requirements": [
+    {"requirement": "Signed and stamped copy of Form- IA/II Land Border sharing", "compliance_type": "LAND_BORDER_SHARING", "source_reference": "Covers Information, Cover No 1 - Fee/PreQual/Technical"}
+  ],
+  "source": "CPPP eProcurement System, Government of India (Tenders NIC)",
+  "source_url": "",
+  "notes": ""
+}
