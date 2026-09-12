@@ -11,7 +11,7 @@ import './components/Layout/Layout.css';
 
 export default function App() {
   const [showHero, setShowHero] = useState(true);
-  const [activeTab, setActiveTab] = useState('verification');
+  const [activeTab, setActiveTab] = useState('dashboard');
   const [selectedBidderId, setSelectedBidderId] = useState(null);
   const [selectedTenderId, setSelectedTenderId] = useState(null);
 
