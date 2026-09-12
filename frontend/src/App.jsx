@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Hero from './components/Hero/Hero';
 import Sidebar from './components/Layout/Sidebar';
 import Header from './components/Layout/Header';
 import DashboardView from './components/Dashboard/DashboardView';
@@ -9,6 +10,7 @@ import AuditView from './components/Audit/AuditView';
 import './components/Layout/Layout.css';
 
 export default function App() {
+  const [showHero, setShowHero] = useState(true);
   const [activeTab, setActiveTab] = useState('verification');
   const [selectedBidderId, setSelectedBidderId] = useState(null);
   const [selectedTenderId, setSelectedTenderId] = useState(null);
@@ -25,7 +27,11 @@ export default function App() {
   };
 
   return (
-    <div className="app-container">
+    <>
+      {showHero && <Hero onEnter={() => setShowHero(false)} />}
+
+      {!showHero && (
+        <div className="app-container">
       <Sidebar activeTab={activeTab} setActiveTab={setActiveTab} />
       
       <main className="app-main">
@@ -64,5 +70,7 @@ export default function App() {
         </div>
       </main>
     </div>
+      )}
+    </>
   );
 }
